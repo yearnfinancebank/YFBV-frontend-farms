@@ -35,6 +35,11 @@ const config: MenuEntry[] = [
     icon: 'GroupsIcon',
     href: '/referrals',
   },
+  {
+    label: 'Lottery (Pending)',
+    icon: 'TicketIcon',
+    href: '/',
+  },
   // {
   //   label: 'Referrals',
   //   icon: 'PoolIcon3',
@@ -78,6 +83,11 @@ const config: MenuEntry[] = [
     label: 'Audit',
     icon: 'AuditIcon',
     href: '',
+  },
+  {
+    label: 'Forked from audited Goosedefi',
+    icon: 'GooseIcon',
+    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
   },
 ]
 
