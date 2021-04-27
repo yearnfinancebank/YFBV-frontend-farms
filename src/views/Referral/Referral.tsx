@@ -35,7 +35,7 @@ const Referral: React.FC = () => {
     return (
         <Page>
           <Con>
-              <Heading size="xl" mb="24px">Pig Finance Referral Program</Heading> 
+              <Heading size="xl" mb="24px">YFBV Finance Referral Program</Heading> 
               <StyledCard>
                   <CardHeader>
                       <Heading size="md">Share the referral link below to invite your friends and earn 2% of your friends earnings FOREVER!</Heading>
