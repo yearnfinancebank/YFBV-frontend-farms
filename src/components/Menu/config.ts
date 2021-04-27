@@ -84,11 +84,6 @@ const config: MenuEntry[] = [
     icon: 'AuditIcon',
     href: '',
   },
-  {
-    label: 'Forked from audited Goosedefi',
-    icon: 'GooseIcon',
-    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
-  },
 ]
 
 export default config
