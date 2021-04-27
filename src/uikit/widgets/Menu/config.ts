@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance/#/swap?inputCurrency=ETH&outputCurrency=0x1590b659D48717F541A19534d3571573eA7A49A5",
+        href: "",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/add/0x1590b659D48717F541A19534d3571573eA7A49A5/BNB",
+        href: "",
       },
     ],
   },
