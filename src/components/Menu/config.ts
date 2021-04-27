@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap?inputCurrency=ETH&outputCurrency=0x1590b659D48717F541A19534d3571573eA7A49A5',
+        href: '',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pancakeswap.finance/#/add/0x1590b659D48717F541A19534d3571573eA7A49A5/BNB',
+        href: '',
       },
     ],
   },
@@ -61,15 +61,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x1590b659D48717F541A19534d3571573eA7A49A5',
-      },
-      {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x1590b659D48717F541A19534d3571573eA7A49A5',
+        href: '',
       },
 	  {
         label: 'Chart',
-        href: 'https://goswapp-bsc.web.app/0xc11c20cc11f8a7405aee07093290d4a7fb3722b3',
+        href: '',
       },
     ],
   },
@@ -78,29 +74,15 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
-        label: 'Github',
-        href: 'https://github.com/Pig-Finance',
-      },
-      {
         label: 'Docs',
-        href: 'https://pig-finance.gitbook.io/pig-finance/',
+        href: '',
       },
     ],
   },
   {
     label: 'Audit',
     icon: 'AuditIcon',
-    href: 'https://pig-finance.gitbook.io/pig-finance/security/audit',
-  },
-  {
-    label: 'Roadmap',
-    icon: 'NftIcon',
-    href: 'https://pig-finance.gitbook.io/pig-finance/roadmap',
-  },
-  {
-    label: 'Hybrid Burning Mechanism',
-    icon: 'IfoIcon',
-    href: 'https://pig-finance.gitbook.io/pig-finance/tokenomics/hybrid-burning-mechanism',
+    href: '',
   },
   {
     label: 'Forked from audited Goosedefi',
