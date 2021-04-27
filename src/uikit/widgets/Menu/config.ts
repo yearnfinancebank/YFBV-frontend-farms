@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "Group",
-        href: "https://t.me/pig_group",
+        href: "https://t.me/YFinanceBank",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "News",
-        href: "https://t.me/pig_news",
+        href: "https://t.me/YFinanceBankNews",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/DefiPig",
+    href: "https://twitter.com/YFinanceBank",
   },
 ];
 
